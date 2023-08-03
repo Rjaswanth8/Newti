@@ -1,2 +1,2 @@
-# Newti
+# Newto
 Official site of newto
